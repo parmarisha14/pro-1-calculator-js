@@ -1,10 +1,16 @@
 🔹 Objective:
+
+
 To design and develop a basic web calculator that performs arithmetic operations such as addition, subtraction, multiplication, and division using HTML, CSS, and JavaScript.
 
 🔹 Introduction:
+
+
 This project implements a user-friendly calculator interface that supports basic arithmetic functions. It aims to provide a practical demonstration of front-end web development using core technologies.
 
 🔹 Tools & Technologies Used:
+
+
 Technology	Purpose
 HTML5	
 CSS3	
