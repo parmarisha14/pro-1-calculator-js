@@ -9,9 +9,9 @@ This project implements a user-friendly calculator interface that supports basic
 
 🔹 Tools & Technologies Used:
 
-HTML5	Structure of the web page
-CSS3	Styling and layout design
-JavaScript	Functional logic and user interaction
+HTML5	
+CSS3	
+JavaScript	
 
 🔹 Features:
 Interactive number and operator buttons
@@ -22,7 +22,7 @@ Evaluation of mathematical expressions
 
 Clear input functionality (AC button)
 
-Live Demo:D:/basic_cal/index.html
+Live Demo:http://127.0.0.1:5500/index.html
 
 
 ![Screenshot 2025-05-20 163202](https://github.com/user-attachments/assets/8d4512c6-ad02-4f42-b256-673c6899ca10)
