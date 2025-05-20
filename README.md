@@ -10,7 +10,6 @@ This project implements a user-friendly calculator interface that supports basic
 
 🔹 Tools & Technologies Used:
 
-
 Technology	Purpose
 HTML5	
 CSS3	
