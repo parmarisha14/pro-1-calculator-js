@@ -22,7 +22,7 @@ Evaluation of mathematical expressions
 
 Clear input functionality (AC button)
 
-Live Demo:file:///D:/basic_cal/index.html
+Live Demo:D:/basic_cal/index.html
 
 
 ![Screenshot 2025-05-20 163202](https://github.com/user-attachments/assets/8d4512c6-ad02-4f42-b256-673c6899ca10)
